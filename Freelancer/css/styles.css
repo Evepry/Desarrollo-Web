@@ -153,7 +153,7 @@ MEDIDA PARA TELEFONO
 /*
 MEDIDA PARA TABLET
 */
-@media (min-width: 748px) {
+@media (min-width: 768px) {
     .navegacion-principal{
         flex-direction: row;
         justify-content: space-between;
@@ -196,7 +196,6 @@ MEDIDA PARA TELEVISOR
 .navegacion-principal a:hover{
     background-color: var(--primario);
     color: var(--negro);
-    font-size: 3rem;
 }
 
 /* Hero */
