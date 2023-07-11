@@ -96,6 +96,7 @@ h3{
     display: flex;
     justify-content: center;
     gap: 2rem;
+    /*margin-right: 2rem;*/
 }
 
 .navegacion__enlace{
@@ -103,6 +104,12 @@ h3{
     color: var(--blanco);
     font-size: 3rem;
 }
+
+/*
+.navegacion__enlace: last-of-type{
+    margin-right: 0;
+}
+*/
 
 .navegacion__enlace--activo,
 .navegacion__enlace:hover{
