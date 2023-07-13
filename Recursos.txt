@@ -1,0 +1,6 @@
+https://www.cssmatic.com/box-shadow
+https://caniuse.com/
+https://www.paulirish.com/2012/box-sizing-border-box-ftw/
+http://necolas.github.io/normalize.css/
+https://fonts.google.com/
+https://www.lipsum.com/
