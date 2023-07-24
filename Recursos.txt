@@ -1,6 +1,23 @@
+Diseño CSS
 https://www.cssmatic.com/box-shadow
+
+
 https://caniuse.com/
+
+BORDER BOX
 https://www.paulirish.com/2012/box-sizing-border-box-ftw/
+
+Normalize
 http://necolas.github.io/normalize.css/
+
+FUENTES
 https://fonts.google.com/
+
+Lorem Ipsum
 https://www.lipsum.com/
+
+Iconos
+https://tablericons.com/
+https://fontawesome.com/
+https://heroicons.com/
+
