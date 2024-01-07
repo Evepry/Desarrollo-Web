@@ -21,3 +21,38 @@ https://tablericons.com/
 https://fontawesome.com/
 https://heroicons.com/
 
+MEDIA QUERIES
+ctrl + shif + p
+user snippets
+
+configurar user snippets
+
+	"Crea un Media Query": {
+		"prefix": "mq",
+		"body": [
+			"@media (min-width: ${1:px}) {",
+			"\t$2",
+			"}"
+		],
+		"description": "Crea un Media Query"
+	},
+	"Crea un Media Query para 768px": {
+		"prefix": "mq768",
+		"body": [
+			"@media (min-width: 768px) {",
+			"\t$1",
+			"}"
+		],
+		"description": "Crea un Media Query para 768px"
+	},
+	"Crea un Media Query para 992px": {
+		"prefix": "mq992",
+		"body": [
+			"@media (min-width: 992px) {",
+			"\t$1",
+			"}"
+		],
+		"description": "Crea un Media Query para 992px"
+	}
+
+Reiniciar VScode
